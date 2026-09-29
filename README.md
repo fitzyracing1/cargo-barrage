@@ -1,2 +1,5 @@
 # cargo-barrage
-Barrage plain-language clone of fitzyracing1/cargo
+
+Barrage clone of [fitzyracing1/cargo](https://github.com/fitzyracing1/cargo).
+
+Read [listing.barrage](listing.barrage).
